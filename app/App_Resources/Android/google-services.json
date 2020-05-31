@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606045416579",
+    "firebase_url": "https://realtimelocation-nsvue-278912.firebaseio.com",
+    "project_id": "realtimelocation-nsvue-278912",
+    "storage_bucket": "realtimelocation-nsvue-278912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606045416579:android:10decb3b3ff6e8fc0a7fb6",
+        "android_client_info": {
+          "package_name": "com.georgy.rtlnsvue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606045416579-gnj8idu4ifvo7g3fgu8tj6cet11i9p4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhb3jOwbsjwqjgjPQVYDFS0ZKx-MYqhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606045416579-gnj8idu4ifvo7g3fgu8tj6cet11i9p4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
